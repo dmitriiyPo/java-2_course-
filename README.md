@@ -1,1 +1,1 @@
-first commit
+Java lab work for the 2nd year of study
